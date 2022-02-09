@@ -1,8 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
 import 'package:flutter_svg/flutter_svg.dart';
-import 'package:numeric_keyboard/numeric_keyboard.dart';
-import 'package:pin_code_fields/pin_code_fields.dart';
 import 'package:pin_pass/pin_input/pin_input_cubit.dart';
 import 'package:pin_pass/resources/colors.dart';
 import 'package:pin_pass/resources/icons.dart';

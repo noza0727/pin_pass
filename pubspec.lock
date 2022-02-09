@@ -123,13 +123,6 @@ packages:
       url: "https://pub.dartlang.org"
     source: hosted
     version: "1.0.0"
-  numeric_keyboard:
-    dependency: "direct main"
-    description:
-      name: numeric_keyboard
-      url: "https://pub.dartlang.org"
-    source: hosted
-    version: "1.1.0"
   path:
     dependency: transitive
     description:
@@ -158,20 +151,6 @@ packages:
       url: "https://pub.dartlang.org"
     source: hosted
     version: "4.4.0"
-  pin_code_fields:
-    dependency: "direct main"
-    description:
-      name: pin_code_fields
-      url: "https://pub.dartlang.org"
-    source: hosted
-    version: "7.3.0"
-  pinput:
-    dependency: "direct main"
-    description:
-      name: pinput
-      url: "https://pub.dartlang.org"
-    source: hosted
-    version: "1.2.2"
   provider:
     dependency: transitive
     description:

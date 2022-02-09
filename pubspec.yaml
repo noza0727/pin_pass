@@ -35,9 +35,6 @@ dependencies:
   # Use with the CupertinoIcons class for iOS style icons.
   cupertino_icons: ^1.0.2
   flutter_svg: ^1.0.3
-  pinput: ^1.2.2
-  pin_code_fields: ^7.3.0
-  numeric_keyboard: ^1.1.0
   flutter_bloc: ^8.0.1
   bloc: ^8.0.2
 

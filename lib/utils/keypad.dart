@@ -5,7 +5,7 @@ import 'package:pin_pass/resources/colors.dart';
 typedef KeyboardTapCallback = void Function(int number);
 
 class Keypad extends StatelessWidget {
-  Keypad({Key? key, this.leftIcon, this.rightIcon, required this.onKeyboardTap, this.onLeftIcon, this.onRightIcon}) : super(key: key);
+  const Keypad({Key? key, this.leftIcon, this.rightIcon, required this.onKeyboardTap, this.onLeftIcon, this.onRightIcon}) : super(key: key);
 
   final Widget? leftIcon;
   final Widget? rightIcon;
